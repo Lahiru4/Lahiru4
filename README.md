@@ -1,5 +1,9 @@
 ### Hi there 👋
-Heloo I am E.A.L Indusara
+
+Heloo.
+I am E.A.L Indusara
+
+
 
 <!--
 **Lahiru4/Lahiru4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
