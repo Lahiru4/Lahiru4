@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indusara Edirisinha</h1>
+
 <h3 align="center">IJSE Student ,</h3>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmC0L2ivCHjTYJmCIuVIlYhOLLGL6mvdqmS8jWuLFw4nEV7MzQ" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
