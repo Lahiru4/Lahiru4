@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate full stack developer developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineering student from SriLanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lahiru4&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru4" width="150px"/> </p>
 
